@@ -17,5 +17,9 @@ public class AppiumTest {
 	{
 		System.out.println("IoSApps");
 	}
+	public void IoSApps2()
+	{
+		System.out.println("IoSApps");
+	}
 
 }
